@@ -1,0 +1,3 @@
+[  
+    { "keys": ["super+t", "super+o"], "command": "open_folder_current_file" }
+] 

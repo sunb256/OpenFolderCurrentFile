@@ -1,0 +1,3 @@
+[  
+    { "keys": ["ctrl+t", "ctrl+o"], "command": "open_folder_current_file" }
+] 
